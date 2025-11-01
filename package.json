@@ -1,21 +1,21 @@
 {
-  "name": "goit-projekt-js-9",
+  "name": "project-moviebox",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://brzozanet.github.io/goit-projekt-js-9",
+  "homepage": "https://brzozanet.github.io/project-moviebox",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-projekt-js-9/"
+    "build": "parcel build src/*.html --public-url /project-moviebox/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brzozanet/goit-projekt-js-9.git"
+    "url": "git+https://github.com/brzozanet/project-moviebox.git"
   },
   "keywords": [],
   "author": "Paweł Brzozowski <pawel@brzoza.net",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brzozanet/goit-projekt-js-9/issues"
+    "url": "https://github.com/brzozanet/project-moviebox/issues"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
